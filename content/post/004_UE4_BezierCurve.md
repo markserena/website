@@ -2,7 +2,7 @@
 title = "UE4 Bezier Curve"
 date = "2017-07-11T19:44:32+05:30"
 image = "img/portfolio/camera1.jpg"
-draft = false
+draft = true
 showonlyimage = false
 categories = [ "UE4"]
 tags = ["Bezier", "Blueprint", "Curves"]
