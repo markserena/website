@@ -48,10 +48,10 @@ pygmentsCodeFencesGuessSyntax = true
   weight = 1
 
     # Nav links in the side bar
-  [[menu.main]]
-  name = "Downloads"
-  url = "downloads/"
-  weight = 2
+  # [[menu.main]]
+  # name = "Downloads"
+  # url = "downloads/"
+  # weight = 2
 
   [[menu.main]]
   name = "Portfolio"
@@ -90,7 +90,7 @@ pygmentsCodeFencesGuessSyntax = true
   weight = 6
 
   [params.social]
-  email         = "mark@markserena.com.au"
+  # email         = "mark@markserena.com.au"
   twitter       = "https://twitter.com/_markserena"
   linkedin      = "https://www.linkedin.com/in/markserena/"
   github        = "https://github.com/markserena"

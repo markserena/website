@@ -3,19 +3,20 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+Hello and welcome.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+A little about what I do; I'm a passionate 3D artist,  with over 14 years experience, starting my career in 2004 and have worked for a variety of companies and in many styles.
 
-![This is me][1]
+I've worked on AAA games titles, TV shows and commercials, kids shows, magazine & print, laser shows, corporate videos, logos, medical shows, interactive and documentaries.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+I am a technical artist at heart and I thoroughly enjoy the challenge of making a pipeline to fit into the workflow of many artists. Next to that I love surfacing/lighting & rendering.
 
-#### Education
+I enjoy the learning process that is hand in hand with 3D, in such an evolving industry there is always something to learn/relearn/teach and achieve.  
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Outside of work, I'm a dad and I spend most of my time being stupid.  
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Thank you for visiting.  
 
-[1]: /img/about.jpg
+Mark
+
+<img class="special-img-class" style="width:50%" src="/img/me.jpg"/>
