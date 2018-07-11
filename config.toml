@@ -1,4 +1,4 @@
-baseurl = "https://pensive-poincare-8b81ae.netlify.com/"
+baseurl = "https://www.markserena.com.au/"
 title = "Mark Serena"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
@@ -22,8 +22,8 @@ pygmentsCodeFencesGuessSyntax = true
     "Mark is an artist with a passion for technical art and things beyond his comprehension."
   ]
   copyright = [
-    "&copy; 2018 Mark Serena",
-    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io)."
+    "&copy; 2018 Mark Serena"
+
   ]
 
 
