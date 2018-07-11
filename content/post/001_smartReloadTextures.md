@@ -17,12 +17,13 @@ Instead of reloading all textures like other refresh scripts it will only refres
 
 Copy it to your scripts folder, or copy and paste it into your script editor.  
 To execute the script run the following in a **PYTHON** tab:
-```
+
+{{< highlight python >}}
 import smartReloadTextures;  
 reload(smartReloadTextures);
 refreshTime = 30
 smartReloadTextures.reloadTextures(refreshTime);
-```
+{{< /highlight >}}
 
 <!-- {{< gist gist_sha1_hash >}}  -->
 <!-- <script src="https://gist.github.com/markserena/6984202.js"></script> -->

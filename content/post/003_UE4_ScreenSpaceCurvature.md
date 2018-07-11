@@ -27,7 +27,7 @@ Link to forum post [**HERE**](https://forums.unrealengine.com/showthread.php?144
 <img class="special-img-class" style="width:100%" src="/img/blog/UE4/UE4_ScreenspaceCurvature_epic.jpg" title="Epic Remake"/>
 <center>Epic code in nodes</center>
 
-```
+{{< highlight glsl >}}
 float NormalCurvatureToRoughness(float3 WorldNormal)
 {
     float3 dNdx = ddx(WorldNormal);
@@ -37,7 +37,7 @@ float NormalCurvatureToRoughness(float3 WorldNormal)
     float CurvatureApprox = pow(max(x, y), View.NormalCurvatureToRoughnessScaleBias.z);
 	return saturate(CurvatureApprox * View.NormalCurvatureToRoughnessScaleBias.x + View.NormalCurvatureToRoughnessScaleBias.y);
 }
-```
+{{< /highlight >}}
 
 [MF_CurvatureNode](/downloads/MF_CurvatureNode.zip)  
 [MF_CurvatureRoughness](/downloads/MF_CurvatureRoughness.zip)
