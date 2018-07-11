@@ -1,4 +1,4 @@
-baseurl = "https://www.markserena.com.au/"
+baseurl = "https://pensive-poincare-8b81ae.netlify.com/"
 title = "Mark Serena"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
