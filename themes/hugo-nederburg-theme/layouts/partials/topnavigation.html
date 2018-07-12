@@ -114,5 +114,15 @@
       </a>
     </li>
     {{end}}
+
+
+    {{ with .Site.Params.social.youtube }}
+    <li>
+      <a href="{{ . }}" data-animate-hover="pulse" class="youtube" target="_blank">
+        <i class="fa fa-youtube" title="youtube"></i>
+        <span class="screen-reader-text">youtube</span>
+      </a>
+    </li>
+    {{end}}    
     
   </ul></div>

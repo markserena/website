@@ -54,22 +54,22 @@ pygmentsCodeFencesGuessSyntax = true
   # weight = 2
 
   [[menu.main]]
-  name = "Portfolio"
-  # url = "showreel/"
+  name = "Showreel"
+  url = "showreel/"
   weight = 3
-  identifier = "Portfolio"
+  identifier = "Showreel"
 
-[[menu.main]]
-  weight = 1
-  name   = "Showreel"
-  url    = "showreel/reel"
-  parent = "Portfolio"
+# [[menu.main]]
+#   weight = 1
+#   name   = "Showreel"
+#   url    = "showreel/reel"
+#   parent = "Portfolio"
 
-[[menu.main]]
-  weight = 2
-  name   = "Breakdown"
-  url    = "showreel/breakdown/"
-  parent = "Portfolio"
+# [[menu.main]]
+#   weight = 2
+#   name   = "Breakdown"
+#   url    = "showreel/breakdown/"
+#   parent = "Portfolio"
 
 # end submenu
 
@@ -84,14 +84,16 @@ pygmentsCodeFencesGuessSyntax = true
   url = "contact/"
   weight = 5
 
-  [[menu.main]]
-  name = "Terms"
-  url = "terms/"
-  weight = 6
+  # [[menu.main]]
+  # name = "Terms"
+  # url = "terms/"
+  # weight = 6
 
   [params.social]
   # email         = "mark@markserena.com.au"
   twitter       = "https://twitter.com/_markserena"
   linkedin      = "https://www.linkedin.com/in/markserena/"
-  github        = "https://github.com/markserena"
+  youtube       = "https://www.youtube.com/c/MarkSerena"
   vimeo         = "https://vimeo.com/user19202080"
+  github        = "https://github.com/markserena"
+  

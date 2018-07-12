@@ -115,7 +115,16 @@
             <span class="screen-reader-text">vimeo</span>
         </a>
         </li>
-        {{end}}        
+        {{end}}    
+
+        {{ with .Site.Params.social.youtube }}
+        <li>
+        <a href="{{ . }}"  class="youtube" target="_blank">
+            <i class="fa fa-youtube" title="youtube"></i>
+            <span class="screen-reader-text">youtube</span>
+        </a>
+        </li>
+        {{end}}                
 
 				</ul>	<div class="design-credit">
 		{{ range .Site.Params.copyright }}

@@ -17,8 +17,8 @@ Tracks is distributed under the terms of the GNU GPL
 /*===== Variables =====*/
 /* Theme Colors */
 .site-title, .toggle-navigation i {
-  font-size: 1.625em;
-  line-height: 1.85;
+  font-size: 2.3em;
+  line-height: 1.1;
 }
 
 .wp-caption-text, .excerpt-meta, .entry-meta, .more-link, .pagination, .further-reading span,
@@ -27,7 +27,7 @@ Tracks is distributed under the terms of the GNU GPL
 .entry-categories a,
 .entry-tags span,
 .entry-tags a, .author-meta .author span, .comments-number h2, .comment-author div, .design-credit, .singular-attachment .attachment-caption, .widget li, .menu-footer-items a, .menu-secondary-items a {
-  font-size: 0.813em;
+  font-size: 0.713em;
   line-height: 1.85;
 }
 
@@ -39,9 +39,9 @@ Tracks is distributed under the terms of the GNU GPL
 .menu-primary-items a, .excerpt-meta, .entry-meta, .excerpt-title, .entry-title, .more-link, .pagination, .further-reading,
 .entry-categories,
 .entry-tags, .author-meta .author span, .comments-number h2, .comment-author .author-name, .site-footer h1, .design-credit, .widget-title, .widget li, .menu-footer-items a, .menu-secondary-items a {
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 0.08em;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 /* Social Media Brand Colors */
@@ -83,7 +83,7 @@ body {
 }
 
 .main {
-  background: #28282b;
+  background: #545454;
   padding-bottom: 1.5em;
   margin: 0 auto;
 }
@@ -103,15 +103,15 @@ p {
 
 a {
   text-decoration: none;
-  color: #681700;
+  color: #5eff00;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 a:link {
-  color: #5a1d1d;
+  color: #800000;
 }
 a:visited, a:hover, a:active, a:focus {
-  color: rgb(197, 58, 58);
+  color: rgb(167, 0, 0);
 }
 
 article a {
@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.625em;
+  font-size: 2.25em;
   /* 42px / 16px */
   line-height: 1.143;
 }
@@ -309,7 +309,7 @@ textarea {
   width: 100%;
   max-width: 27.75em;
   min-height: 45px;
-  outline: solid 1px #000;
+  outline: solid 1px rgb(0, 0, 0);
   border: none;
   font-family: "raleway", sans-serif;
   font-size: 0.813em;
@@ -376,7 +376,7 @@ a img {
 .skip-content {
   position: absolute;
   width: 100%;
-  background: #110800;
+  background: #fd7905;
   color: #aaaaaa;
   text-align: center;
   padding: 0.375em;
@@ -1514,7 +1514,7 @@ li.pingback:first-child {
 }
 
 .design-credit {
-  background: #110800;
+  background: #2e0000;
   color: #8c8c8c;
   padding: 0.75em 0;
   margin-top: 48px;
@@ -1878,7 +1878,7 @@ li.pingback:first-child {
   left: -6%;
   width: 112%;
   min-height: 3em;
-  background: #110800;
+  background: #2e0000;
   padding: 0.375em 5.55%;
   margin: -0.75em 0 0;
   line-height: 0;
@@ -1951,7 +1951,7 @@ li.pingback:first-child {
   left: 0;
   padding: 1.5em;
   margin: 0;
-  background: #110800;
+  background: #2e0000;
   -webkit-transition: all 0.3s ease;
           transition: all 0.3s ease;
 }
@@ -2410,7 +2410,7 @@ li.pingback:first-child {
   background: none;
 }
 .background-image-active .top-navigation {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 0, 0, 0.2);
 }
 .background-image-active .site-footer {
   background: #38312f;
