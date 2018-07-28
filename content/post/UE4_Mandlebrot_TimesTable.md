@@ -1,5 +1,5 @@
 +++
-title = "UE4 Mandlebrot TimesTables"
+title = "UE4 Mandlebrot Times Tables"
 date = "2018-07-27T18:00:32+05:30"
 image = "img/blog/UE4/UE4_Mandelbrot_Cardioid.jpg"
 draft = false
