@@ -27,11 +27,11 @@ First step is create a repeating uv tile.
 Next we'll use a noise image but down res it, by grabbing the nearest interger and then scaling it down by the repeats.
 <img class="special-img-class" style="width:100%" src="/img/blog/UE4/Truchet/UE4_TruchetTiling_03.jpg" title="Mosaic UVs"/>
 
-In order to rotate our image around the cell, we need normalized values between 0 and 1 and for each image to rotate in 90 degree turns we need 0.25, 0.5, 0.75 for our rotator.
+In order to rotate our image around each repeated cell, we need normalized values between 0 and 1 and for each image to rotate in 90 degree turns we need 0.25, 0.5, 0.75 for our rotator.
 So if you posterize the image by using the same technique above but not on the uv's you get the right values.
-<img class="special-img-class" style="width:100%" img src="/img/blog/UE4/Truchet/UE4_TruchetTiling_04.jpg" onmouseout="this.src='/img/blog/UE4/Truchet/UE4_TruchetTiling_04.jpg'" onmouseover="this.src='/img/blog/UE4/Truchet/UE4_TruchetTiling_04a.jpg'" title="Posterize values"/>
-*(Mouse over)*
 
+<img class="special-img-class" style="width:100%" img src="/img/blog/UE4/Truchet/UE4_TruchetTiling_04.jpg" onmouseout="this.src='/img/blog/UE4/Truchet/UE4_TruchetTiling_04.jpg';" onmouseover="this.src='/img/blog/UE4/Truchet/UE4_TruchetTiling_04a.jpg';" title="Posterize values"/>
+*(Mouse over)*
 
 Then we just plug in our first uv tile graph into a customRotator and then plug in the noise  as the rotation values, connect that into the uv's of our image sample and it will give us the unique Truchet tiling patterns.
 <img class="special-img-class" style="width:100%" src="/img/blog/UE4/Truchet/UE4_TruchetTiling_05.jpg" title="Truchet UVs"/>
