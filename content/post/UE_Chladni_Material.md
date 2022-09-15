@@ -36,7 +36,7 @@ Which should equate to 6Hz, but I haven't been able to recreate the same frequen
 <img class="special-img-class" style="width:100%" src="/img/blog/UE/Chladni/UE_Chladni_Cosine.jpg" title="Cosine">
 <sup>*Open in new tab to view larger image*</sup>
 
-And everything has worked out, it should look like this.
+And if everything has worked out, it should look like this.
 <img class="special-img-class" style="width:100%" src="/img/blog/UE/Chladni/UE_Chladni_Animated.gif" title="Examples">
 1 ) Effect as above
 
