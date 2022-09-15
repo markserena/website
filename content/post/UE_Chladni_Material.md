@@ -32,7 +32,8 @@ Which we can do like this
 <sup>*Open in new tab to view larger image*</sup>
 
 Then you can wrap up the final part of the equation like so. I've used a period of 6.28 in the cosine node. 
-Which should equate to 6Hz, but I haven't been able to recreate the same frequencies I've seen online with that.
+Which should equate to 1Hz, but I haven't been able to recreate the same frequencies I've seen online with that
+*Note I need to do more reading about getting this correct, please comment if you know better here.
 <img class="special-img-class" style="width:100%" src="/img/blog/UE/Chladni/UE_Chladni_Cosine.jpg" title="Cosine">
 <sup>*Open in new tab to view larger image*</sup>
 
