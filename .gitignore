@@ -2,3 +2,5 @@
 *.psd
 
 _psd/
+.hugo_build.lock
+hugo.exe
