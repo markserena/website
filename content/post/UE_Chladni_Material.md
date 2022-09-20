@@ -1,6 +1,6 @@
 +++
 title = "Chladni Pattern"
-date = "2022-09-15T00:08:00+09:30"
+date = "2022-09-20T00:08:00+09:30"
 image = "img/blog/UE/Chladni/UE_Chladni_Pattern.jpg"
 draft = false
 showonlyimage = false
