@@ -4,10 +4,10 @@ date = "2013-10-14T19:44:32+05:30"
 image = "img/blog/maya/maya_ascii_header.jpg"
 draft = false
 showonlyimage = false
-categories = [ "Python", "Maya"]
-tag = [ "Python", "Maya"]
+categories = ["Maya"]
+tag = ["Maya"]
 weight = 1
-description = "Reload modified Maya textures within timeframe."
+description = "Maya bug not saving requies statement in the ascii header."
 +++
 
 Maya bug not saving requies statement in the ascii header 
