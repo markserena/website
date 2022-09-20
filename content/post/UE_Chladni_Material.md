@@ -18,11 +18,7 @@ Watchning a Houdini Video by Junichiro Horikawa [**HERE**](https://www.youtube.c
 ----
 <span style="color:darkgrey;"><sub>*More correct version below*</sub></span>
 
-
-
-Watchning a Houdini Video by Junichiro Horikawa [**HERE**](https://www.youtube.com/watch?v=wEXaBtZFgWE) that builds the Chladni (Cymatic) resonance effect in 3D and thought it a good exercise to recreate in an Unreal Material. 
-
-Following the algorithm from [Paul Bourke](http://paulbourke.net/geometry/chladni/)
+So the video starts by breaking down the following the algorithm from [Paul Bourke](http://paulbourke.net/geometry/chladni/)
 
 ```math
 cos(n.PI.x./L) cos(m pi y / L) - cos(m pi x / L) cos(n pi y / L) = 0 
