@@ -7,9 +7,9 @@ showonlyimage = false
 categories = [ "unreal"]
 tags = ["mandlebrot", "blueprint", "times-table", "ue4", "ue5", "unreal"]
 weight = 1
-description = "Create circular timestable using blueprint"
+description = "Create circular timetable using blueprint"
 +++
-Create circular timestable using UE Blueprints
+Create circular timetable using UE Blueprints
 <!--more-->
 {{< load-photoswipe >}}
 
@@ -17,7 +17,7 @@ I was inspired by this Mathloger [**video**]( https://www.youtube.com/watch?v=qh
 
 {{< figure link="/img/blog/UE/UE_cardioid.gif" width="200px" caption="Click to open" caption-effect="fade" caption-position="bottom" alt="Cardioid 2D">}}
 
- It's basically an awesome way to visualize timestables in 2 dimensions.   
+ It's basically an awesome way to visualize timetables in 2 dimensions.   
 
 We create a for loop with the maximum number of connections we want to make.  
 For the current index we want to get it's location on the circle so we put in a rotateVectorAroundAxis

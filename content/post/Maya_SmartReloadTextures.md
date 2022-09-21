@@ -7,7 +7,7 @@ showonlyimage = false
 categories = [ "maya"]
 tags = [ "python", "maya"]
 weight = 1
-description = "Reload modified Maya textures within timeframe."
+description = "Reload modified Maya textures within time frame."
 +++
 
 Reload textures that have been modified within a specified amount of time.

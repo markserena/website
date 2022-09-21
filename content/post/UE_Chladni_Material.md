@@ -28,7 +28,7 @@ So the video starts by breaking down the following the algorithm from [Paul Bour
 cos(n.PI.x./L) cos(m pi y / L) - cos(m pi x / L) cos(n pi y / L) = 0 
 ```
 
-It is stated on Paul’s page that you need to keep X/Y/Z between zero and PI for each axis. In the houdini version you needed to remap the point numbers (@ptnum) by the resolution (divisions) of the square but since our UV coordinates are already normalized we can skip that.
+It is stated on Paul’s page that you need to keep X/Y/Z between zero and PI for each axis. In the Houdini version you needed to remap the point numbers (@ptnum) by the resolution (divisions) of the square but since our UV coordinates are already normalized we can skip that.
 
 So we just need to multiply our R and G components by PI to have our UV mapped 0 to PI 
 

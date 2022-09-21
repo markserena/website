@@ -1,5 +1,5 @@
 +++
-title = "Saving plugin data in the ascii file header"
+title = "Saving plugin data in the ASCII file header"
 date = "2013-10-14T19:44:32+05:30"
 image = "img/blog/maya/maya_ascii_header.jpg"
 draft = false
@@ -7,10 +7,10 @@ showonlyimage = false
 categories = ["maya"]
 tag = ["maya"]
 weight = 1
-description = "Maya bug not saving requies statement in the ascii header."
+description = "Maya bug not saving requires statement in the ASCII header."
 +++
 
-Maya bug not saving requies statement in the ascii header 
+Maya bug not saving requires statement in the ASCII header 
 <!--more-->
 
 

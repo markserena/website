@@ -15,11 +15,11 @@ Convert EXR to zips compression.
 {{< load-photoswipe >}}
 
 
-Had this one sitting on my computer for a little while now. Just a little batch script to convert exr to zips compression instead of zip, it converts them from tiled to scanline which means nuke will read the sequence and preview changes faster.
+Had this one sitting on my computer for a little while now. Just a little batch script to convert exr to zips compression instead of zip, it converts them from tiled to scan-line which means nuke will read the sequence and preview changes faster.
 
 To use simply right click on any file inside the folder of an image sequence you want converted.
 **Choose SendTo > EXR / TGA**
-It will convert your files into a subfolder labeled TGA/ZIP for you to copy over.
+It will convert your files into a sub-folder labeled TGA/ZIP for you to copy over.
 
 [Download --*openImageIO here*--](/downloads/exr_OpenImageIO.7z)  
 

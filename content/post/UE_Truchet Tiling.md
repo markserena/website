@@ -16,7 +16,7 @@ Exploring Truchet Tiling
 
 
 I recently came across the Truchet tiling method. 
-It's a fascinatingly simple idea and works really nice for aesethic patterns
+It's a fascinatingly simple idea and works really nice for aesthetic patterns
 
 A variety of patterns can be formed by taking one or many images and rotating it for each edge.
 
@@ -27,7 +27,7 @@ First step is create a repeating uv tile.
 {{< figure link="/img/blog/UE/Truchet/UE_TruchetTiling_02.jpg" caption="Click to open" caption-effect="fade" caption-position="bottom" alt="Repeated UVs">}}
 
 
-Next we'll use a noise image but down res it, by grabbing the nearest interger and then scaling it down by the repeats.
+Next we'll use a noise image but down res it, by grabbing the nearest integer and then scaling it down by the repeats.
 {{< figure link="/img/blog/UE/Truchet/UE_TruchetTiling_03.jpg" caption="Click to open" caption-effect="fade" caption-position="bottom" alt="Mosaic the UVs">}}
 
 

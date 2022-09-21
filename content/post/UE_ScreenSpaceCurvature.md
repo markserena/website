@@ -17,7 +17,7 @@ UE4 ScreenSpace Curvature GLSL Port
 Ported over a GLSL shader from [**MadeByEvan**](http://madebyevan.com/shaders/curvature/) to Unreal as a Material Function for doing ScreenSpace Curvature.
 Also converted a more simplified version from Epic into nodes as well.
 {{< yt Qmi9LgH5N2E >}}
-The normals are interpolated linearly so the faceting can't be fixed at the moment, but with higher resolution mesh or more math savy people (or UE4 will do smooth interpolated normals) this could be improved upon.  
+The normals are interpolated linearly so the faceting can't be fixed at the moment, but with higher resolution mesh or more math savvy people (or UE4 will do smooth interpolated normals) this could be improved upon.  
 Lemme know if you find it useful.
 Built in 4.16 but can be for any version.
 

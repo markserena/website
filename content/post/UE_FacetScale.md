@@ -5,9 +5,9 @@ image = "img/portfolio/business-card.jpg"
 draft = true
 showonlyimage = false
 categories = [ "unreal"]
-tags = ["mandlebrot", "blueprint", "timestable", "ue4", "ue5", "unreal"]
+tags = ["mandlebrot", "blueprint", "timetable", "ue4", "ue5", "unreal"]
 weight = 1
-description = "Scales centres of face centroid"
+description = "Scales centers of face centroid"
 +++
 Create per face scale effect
 <!--more-->
