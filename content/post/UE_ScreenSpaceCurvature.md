@@ -12,20 +12,22 @@ description = "Reload modified Maya textures within timeframe."
 
 UE4 ScreenSpace Curvature GLSL Port
 <!--more-->
+{{< load-photoswipe >}}
 
 Ported over a GLSL shader from [**MadeByEvan**](http://madebyevan.com/shaders/curvature/) to Unreal as a Material Function for doing ScreenSpace Curvature.
 Also converted a more simplified version from Epic into nodes as well.
-{{< youtube Qmi9LgH5N2E >}}
+{{< yt Qmi9LgH5N2E >}}
 The normals are interpolated linearly so the faceting can't be fixed at the moment, but with higher resolution mesh or more math savy people (or UE4 will do smooth interpolated normals) this could be improved upon.  
 Lemme know if you find it useful.
 Built in 4.16 but can be for any version.
 
 Link to forum post [**HERE**](https://forums.unrealengine.com/showthread.php?144724-FREE-Curvature-Shader)
 
-<img class="special-img-class" style="width:100%" src="/img/blog/UE/UE_ScreenspaceCurvature_glsl.jpg" title="GLSL Port"/>
-<center>MadeByEvan port</center>
-<img class="special-img-class" style="width:100%" src="/img/blog/UE/UE_ScreenspaceCurvature_epic.jpg" title="Epic Remake"/>
-<center>Epic code in nodes</center>
+
+{{< figure link="/img/blog/UE/UE_ScreenspaceCurvature_glsl.jpg" caption="Click to open" caption-effect="fade" caption-position="bottom" alt="GLSL Port - MadeByEven">}}
+
+{{< figure link="/img/blog/UE/UE_ScreenspaceCurvature_epic.jpg" caption="Click to open" caption-effect="fade" caption-position="bottom" alt="Epic code in nodes">}}
+
 
 {{< highlight glsl >}}
 float NormalCurvatureToRoughness(float3 WorldNormal)
