@@ -4,8 +4,8 @@ date = "2018-07-27T18:00:32+05:30"
 image = "img/blog/UE/UE_Mandelbrot_Cardioid.jpg"
 draft = false
 showonlyimage = false
-categories = [ "Unreal"]
-tags = ["Mandlebrot", "Blueprint", "Times-table", "UE4", "UE5", "Unreal"]
+categories = [ "unreal"]
+tags = ["mandlebrot", "blueprint", "times-table", "ue4", "ue5", "unreal"]
 weight = 1
 description = "Create circular timestable using blueprint"
 +++

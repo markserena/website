@@ -4,8 +4,8 @@ date = "2019-07-24T08:00:32+05:30"
 image = "img/blog/UE/Truchet/UE_TruchetTiling.jpg"
 draft = false
 showonlyimage = false
-categories = ["Unreal"]
-tags = ["Truchet", "Shader", "UVs", "UE4", "UE5", "Unreal"]
+categories = ["unreal"]
+tags = ["truchet", "shader", "uvs", "ue4", "ue5", "unreal"]
 weight = 1
 description = "Truchet uv tiling"
 +++

@@ -4,8 +4,8 @@ date = "2013-10-14T19:44:32+05:30"
 image = "img/blog/maya/maya_ascii_header.jpg"
 draft = false
 showonlyimage = false
-categories = ["Maya"]
-tag = ["Maya"]
+categories = ["maya"]
+tag = ["maya"]
 weight = 1
 description = "Maya bug not saving requies statement in the ascii header."
 +++

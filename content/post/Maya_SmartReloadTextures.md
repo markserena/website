@@ -4,8 +4,8 @@ date = "2013-10-07T19:44:32+05:30"
 image = "img/blog/python/py_smart_reload_textures.jpg"
 draft = false
 showonlyimage = false
-categories = [ "Maya"]
-tags = [ "Python", "Maya"]
+categories = [ "maya"]
+tags = [ "python", "maya"]
 weight = 1
 description = "Reload modified Maya textures within timeframe."
 +++

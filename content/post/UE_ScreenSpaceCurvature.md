@@ -4,8 +4,8 @@ date = "2017-07-10T19:44:32+05:30"
 image = "img/blog/UE/UE_ScreenspaceCurvature.jpg"
 draft = false
 showonlyimage = false
-categories = [ "Unreal"]
-tags = [ "Unreal", "Shader", "GLSL","Curvature", "UE4", "UE5"]
+categories = [ "unreal"]
+tags = [ "unreal", "shader", "glsl","curvature", "ue4", "ue5"]
 weight = 1
 description = "Reload modified Maya textures within timeframe."
 +++

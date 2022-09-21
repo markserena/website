@@ -4,8 +4,8 @@ date = "2022-09-20T00:08:00+09:30"
 image = "img/blog/UE/Chladni/UE_Chladni_Pattern.jpg"
 draft = false
 showonlyimage = false
-categories = ["Unreal"]
-tags = ["Chladni", "Cymatic", "Shader", "UVs", "UE5", "UE4", "Unreal"]
+categories = ["unreal"]
+tags = ["chladni", "cymatic", "shader", "uvs", "ue5", "ue4", "unreal"]
 weight = 1
 description = "Recreating the Chladni/Cymatic Resonance pattern in a shader"
 +++

@@ -4,8 +4,8 @@ date = "2014-03-14T19:44:32+05:30"
 image = "img/blog/python/py_smart_reload_textures.jpg"
 draft = false
 showonlyimage = false
-categories = [ "Python", "Maya"]
-tags = ["Python", "Maya"]
+categories = [ "python", "maya"]
+tags = ["python", "maya"]
 weight = 1
 description = "Convert EXR to zips compression."
 +++
