@@ -12,6 +12,8 @@ description = "Convert EXR to zips compression."
 
 Convert EXR to zips compression.
 <!--more-->
+{{< load-photoswipe >}}
+
 
 Had this one sitting on my computer for a little while now. Just a little batch script to convert exr to zips compression instead of zip, it converts them from tiled to scanline which means nuke will read the sequence and preview changes faster.
 
@@ -31,4 +33,4 @@ Paste the batch scripts into this directory.
 
 You should with any luck (haven't tested it in a while, so hopefully) you'll have something like this:
 
-<img class="special-img-class" style="width:60%" src="/img/blog/python/exrZips.jpg" title="SendToShortcut"/>
+{{< figure link="/img/blog/python/py_exrZips.jpg" caption="Click to open" caption-effect="fade" caption-position="bottom" alt="SendToShortcut">}}
