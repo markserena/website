@@ -1,6 +1,6 @@
 +++
 title = "Contract Terms"
-date = "2018-19-06T19:44:32+05:30"
+date = "2022-09-20T00:08:00+09:30"
 tags = [ "T&C"]
 description = "Terms & Conditions"
 +++

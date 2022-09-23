@@ -18,8 +18,13 @@ Recreating The Chladni Pattern
 
 
 Watching a Houdini Video by Junichiro Horikawa [**HERE**](https://www.youtube.com/watch?v=wEXaBtZFgWE) that builds the Chladni (Cymatic) resonance effect in 3D and thought it a good exercise to recreate in an Unreal Material. 
+
+­
+
+---
+
 ## Version 1.0
-----
+
 <span style="color:darkgrey;"><sub>*More correct version below*</sub></span>
 
 So the video starts by breaking down the following the algorithm from [Paul Bourke](http://paulbourke.net/geometry/chladni/)
@@ -59,8 +64,12 @@ To try and replicate the oscilloscopes that normally show this type of effect us
 
 
 
+
+­
+
+---
+
 ## Version 2.0
-----
 Ok, so some further investigation lead me to some other algorithm variations of the effect that is more what I'm expecting and I'm able to recreate the patterns that are on the paulbourke page. 
 
 Here is my material graph, which is a bit simpler and means I'm able to recreate the patterns shown on various youtube videos [for example](https://www.youtube.com/watch?v=wvJAgrUBF4w)
