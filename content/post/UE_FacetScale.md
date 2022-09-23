@@ -73,3 +73,12 @@ I exported out a mesh that was a spikey ball and I used the same shader except I
 
 {{< figure link="/img/blog/UE/Facet/UE_FacetScaling__Statue.gif" caption="Click to open" caption-effect="fade" caption-position="bottom">}}
 Finished product with animated statue and animated sine lines on the floor.
+
+
+{{< yt _5yY_wbni3c >}}
+<sup>Facet Rotation</sup>
+
+{{< yt Yh-Py-r3V20 >}}
+<sup>Facet Scaling</sup>
+
+The problem I have yet to solve is getting local transforms incorporated into the shader, so if you rotate the model it doesn't mess up the position calculations. But that is a problem for another time. 
