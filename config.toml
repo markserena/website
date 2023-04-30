@@ -1,4 +1,4 @@
-baseurl = "https://www.markserena.com.au/"
+baseurl = "https://www.markserena.com/"
 title = "Mark Serena"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
@@ -24,7 +24,7 @@ pygmentsCodeFencesGuessSyntax = true
     "Mark is an artist with a passion for technical art and things beyond his comprehension."
   ]
   copyright = [
-    "&copy; 2022 Mark Serena"
+    "&copy; 2023 Mark Serena"
 
   ]
 
