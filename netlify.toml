@@ -1,6 +1,6 @@
 HUGO_VERSION = "0.102.3"
 [[redirects]]
   from = "https://markserena.com.au/*"
-  to = "https://markserena.com/*"
+  to = "https://markserena.com/:splat"
   status = 301
   force = true
