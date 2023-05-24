@@ -1,19 +1,15 @@
 +++
-date = "2016-11-06T13:00:25+05:30"
+date = "2023-05-24:00:25+05:30"
 title = "Get in touch"
 +++
 
-<form id="contactform" action="//formspree.io/mark@markserena.com.au" method="POST">
-    Name (Required)   
-    <input type="text" name="name" placeholder="Your name">   
-    Email (Required)    
-    <input type="email" name="_replyto" placeholder="Your email">   
-    Message (Required)   
-    <textarea name="message" placeholder="Your message"></textarea>   
-    <input type="submit" value="Send">
-    <input type="hidden" name="_next" value="thanks" />
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mark@markserena.com.au" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="Your email" required="">
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Your message" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
 </form>
-<script>
-    var contactform =  document.getElementById('contactform');
-    contactform.setAttribute('action', '//formspree.io/' + 'mark' + '@' + 'markserena' + '.' + 'com' + '.' + 'au');
-</script>
