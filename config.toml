@@ -92,7 +92,7 @@ pygmentsCodeFencesGuessSyntax = true
   # weight = 6
 
   [params.social]
-  # email       = "mark@markserena.com.au"
+  # email       = "mark@markserena.com"
   twitter       = "https://twitter.com/_markserena"
   linkedin      = "https://www.linkedin.com/in/markserena/"
   youtube       = "https://www.youtube.com/c/MarkSerena"
