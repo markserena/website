@@ -3,7 +3,7 @@ date = "2023-05-24:00:25+05:30"
 title = "Get in touch"
 +++
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mark@markserena.com.au" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mark@markserena.com" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="Your email" required="">
