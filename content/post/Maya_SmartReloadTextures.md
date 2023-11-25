@@ -26,8 +26,6 @@ refreshTime = 30
 smartReloadTextures.reloadTextures(refreshTime);
 {{< /highlight >}}
 
-<!-- {{< gist gist_sha1_hash >}}  -->
-<!-- <script src="https://gist.github.com/markserena/6984202.js"></script> -->
 
 
 **smartReloadTextures.reloadTextures(time)** = time in minutes you wish to threshold the check.
